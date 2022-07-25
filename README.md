@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 📊 My Achievement
-|![whaso's github stats](https://github-readme-stats.vercel.app/api?username=whaso&show_icons=true&theme=midnight-purple&count_private=true)|![whaso's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whaso&theme=midnight-purple&exclude_repo=whaso.github.io&layout=compact)|
-|-|-|
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/rogeraabbccdd/github-profile-summary-cards/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=whaso&redirect=true" target="_blank">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=whaso&cover_image=true" align="left">
+</a>
 
 ### 👀 Visitors
 <div align="center">
