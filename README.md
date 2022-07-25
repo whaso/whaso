@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📊 My Achievement
+|![whaso's github stats](https://github-readme-stats.vercel.app/api?username=whaso&show_icons=true&theme=midnight-purple&count_private=true)|![whaso's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whaso&theme=midnight-purple&exclude_repo=whaso.github.io&layout=compact)|
+|-|-|
+
+### 👀 Visitors
+<div align="center">
+  <img src="https://count.getloli.com/get/@whaso" alt="whaso's count"/>
+  <p>Thanks to visited.</p>
+</div>
+<div align=right>
+  <p>whaso</p>
+</div>
